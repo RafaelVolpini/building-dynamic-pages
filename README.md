@@ -1,4 +1,4 @@
-📋 Lista de Compras - Versão Português
+📋 Lista de Compras 
 <img width="1918" height="873" alt="image" src="https://github.com/user-attachments/assets/176e6617-a2f0-474e-b111-f7e93ae88bfd" />
 
 Aplicação web de lista de compras desenvolvida durante o curso de JavaScript para criação de páginas dinâmicas.
@@ -28,7 +28,7 @@ baixe a extensão LiveServer
 Rode a extensão no index.html
 
 
-📋 Shopping List - English Version
+📋 Shopping List 
 <img width="1918" height="873" alt="image" src="https://github.com/user-attachments/assets/176e6617-a2f0-474e-b111-f7e93ae88bfd" />
 Web shopping list application developed during a JavaScript course for creating dynamic web pages.
 🔨 Features
