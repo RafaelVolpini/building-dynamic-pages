@@ -1,5 +1,5 @@
 📋 Lista de Compras 
-<img width="1918" height="873" alt="image" src="https://github.com/user-attachments/assets/176e6617-a2f0-474e-b111-f7e93ae88bfd" />
+<img width="1600" height="750" alt="image" src="https://github.com/user-attachments/assets/176e6617-a2f0-474e-b111-f7e93ae88bfd" />
 
 Aplicação web de lista de compras desenvolvida durante o curso de JavaScript para criação de páginas dinâmicas.
 🔨 Funcionalidades
@@ -10,8 +10,8 @@ Aplicação web de lista de compras desenvolvida durante o curso de JavaScript p
 ✅ Editar e excluir itens da lista
 ✅ Feedback visual para lista vazia
 
-<img width="785" height="862" alt="image" src="https://github.com/user-attachments/assets/c2c3cf5f-fc81-406b-924a-f6816ea7552b" />
-<img width="769" height="866" alt="image" src="https://github.com/user-attachments/assets/1a5e9fe9-d1a5-47c8-b0d4-203af6b9b1a6" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/c2c3cf5f-fc81-406b-924a-f6816ea7552b" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/1a5e9fe9-d1a5-47c8-b0d4-203af6b9b1a6" />
 
 ✔️ Tecnologias Utilizadas
 
@@ -29,7 +29,7 @@ Rode a extensão no index.html
 
 
 📋 Shopping List 
-<img width="1918" height="873" alt="image" src="https://github.com/user-attachments/assets/176e6617-a2f0-474e-b111-f7e93ae88bfd" />
+<img width="1600" height="750" alt="image" src="https://github.com/user-attachments/assets/176e6617-a2f0-474e-b111-f7e93ae88bfd" />
 Web shopping list application developed during a JavaScript course for creating dynamic web pages.
 🔨 Features
 
@@ -39,8 +39,8 @@ Web shopping list application developed during a JavaScript course for creating 
 ✅ Edit and delete list items
 ✅ Visual feedback for empty list
 
-<img width="785" height="862" alt="image" src="https://github.com/user-attachments/assets/c2c3cf5f-fc81-406b-924a-f6816ea7552b" />
-<img width="769" height="866" alt="image" src="https://github.com/user-attachments/assets/1a5e9fe9-d1a5-47c8-b0d4-203af6b9b1a6" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/c2c3cf5f-fc81-406b-924a-f6816ea7552b" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/1a5e9fe9-d1a5-47c8-b0d4-203af6b9b1a6" />
 
 ✔️ Technologies Used
 
